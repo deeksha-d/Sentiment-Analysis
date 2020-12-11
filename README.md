@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment analysis of movie reviews with slang word replacement
+Sentiment analysis of Amazon movie review dataset using a hybrid CNN-LSTM model with GUI implemented with the help of tkinter
